@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="nameTxt">Name</string>
+    <string name="dateTxt">Date</string>
+    <string name="saveSwitch">Save Data</string>
+    <string name="registerButton">Register</string>
+</resources>
